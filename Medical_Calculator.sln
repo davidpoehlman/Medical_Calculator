@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Medical_Calculator", "Medical_Calculator.vcxproj", "{C928DA99-9D4C-4C9F-9A8E-4ECFCFE9B237}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Medical_Calculator_Installer", "..\Medical_Calculator_Installer\Medical_Calculator_Installer.vdproj", "{8786FDB5-D0D4-4BEF-892D-D4239B9C3DDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,11 @@ Global
 		{C928DA99-9D4C-4C9F-9A8E-4ECFCFE9B237}.Release|x64.Build.0 = Release|x64
 		{C928DA99-9D4C-4C9F-9A8E-4ECFCFE9B237}.Release|x86.ActiveCfg = Release|Win32
 		{C928DA99-9D4C-4C9F-9A8E-4ECFCFE9B237}.Release|x86.Build.0 = Release|Win32
+		{8786FDB5-D0D4-4BEF-892D-D4239B9C3DDE}.Debug|x64.ActiveCfg = Debug
+		{8786FDB5-D0D4-4BEF-892D-D4239B9C3DDE}.Debug|x86.ActiveCfg = Debug
+		{8786FDB5-D0D4-4BEF-892D-D4239B9C3DDE}.Debug|x86.Build.0 = Debug
+		{8786FDB5-D0D4-4BEF-892D-D4239B9C3DDE}.Release|x64.ActiveCfg = Release
+		{8786FDB5-D0D4-4BEF-892D-D4239B9C3DDE}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
